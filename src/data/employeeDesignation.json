@@ -1,0 +1,233 @@
+{
+  "SoftwareDesignations": [
+    {
+      "category": "Entry Level",
+      "positions": [
+        {
+          "title": "Intern",
+          "responsibilities": "Assist in software development tasks, learn company processes, support senior developers."
+        },
+        {
+          "title": "Trainee Software Engineer",
+          "responsibilities": "Participate in training programs, develop basic software modules, fix minor bugs."
+        },
+        {
+          "title": "Junior Software Engineer",
+          "responsibilities": "Develop and maintain software applications, participate in design and code reviews, troubleshoot and debug issues."
+        },
+        {
+          "title": "Software Engineer",
+          "responsibilities": "Develop and maintain software applications, collaborate with teams, write clean and efficient code."
+        }
+      ]
+    },
+    {
+      "category": "Mid Level",
+      "positions": [
+        {
+          "title": "Senior Software Engineer",
+          "responsibilities": "Lead development projects, mentor junior engineers, design scalable software solutions, ensure code quality."
+        },
+        {
+          "title": "Software Developer",
+          "responsibilities": "Design, code, and modify software applications, troubleshoot production issues, optimize performance."
+        },
+        {
+          "title": "System Analyst",
+          "responsibilities": "Analyze system requirements, design technical solutions, support implementation processes."
+        },
+        {
+          "title": "Technical Lead",
+          "responsibilities": "Manage technical aspects of projects, coordinate development activities, ensure adherence to coding standards."
+        },
+        {
+          "title": "Quality Analyst",
+          "responsibilities": "Develop and execute test cases, identify and report bugs, ensure software meets quality standards."
+        },
+        {
+          "title": "DevOps Engineer",
+          "responsibilities": "Automate deployment and operations processes, manage infrastructure, monitor performance and security."
+        }
+      ]
+    },
+    {
+      "category": "Senior Level",
+      "positions": [
+        {
+          "title": "Team Lead",
+          "responsibilities": "Lead project teams, set goals, manage timelines, provide technical guidance."
+        },
+        {
+          "title": "Project Manager",
+          "responsibilities": "Plan, execute, and finalize projects, manage scope, budget, and timeline, coordinate with stakeholders."
+        },
+        {
+          "title": "Product Manager",
+          "responsibilities": "Define product vision, gather requirements, collaborate with development teams."
+        },
+        {
+          "title": "Engineering Manager",
+          "responsibilities": "Oversee engineering teams, manage resources, ensure project delivery."
+        },
+        {
+          "title": "Solution Architect",
+          "responsibilities": "Design overall architecture of software applications, evaluate and integrate new technologies, guide development teams."
+        },
+        {
+          "title": "Technical Architect",
+          "responsibilities": "Define technical standards, ensure system scalability, support development teams."
+        }
+      ]
+    },
+    {
+      "category": "Executive Level",
+      "positions": [
+        {
+          "title": "Director of Engineering",
+          "responsibilities": "Oversee engineering operations, define technical strategy, ensure alignment with business goals."
+        },
+        {
+          "title": "Chief Technology Officer (CTO)",
+          "responsibilities": "Define technological vision, lead innovation efforts, align technology with business objectives."
+        },
+        {
+          "title": "Chief Information Officer (CIO)",
+          "responsibilities": "Oversee IT strategy, ensure security compliance, manage technology budgets."
+        },
+        {
+          "title": "Vice President of Engineering",
+          "responsibilities": "Supervise engineering leaders, drive technical innovation, manage enterprise-level initiatives."
+        },
+        {
+          "title": "Chief Product Officer (CPO)",
+          "responsibilities": "Define product strategies, collaborate with stakeholders, oversee product lifecycle."
+        }
+      ]
+    },
+    {
+      "category": "Specialized Roles",
+      "positions": [
+        {
+          "title": "UI/UX Designer",
+          "responsibilities": "Design user interfaces and experiences, conduct user research, create wireframes and prototypes."
+        },
+        {
+          "title": "Database Administrator (DBA)",
+          "responsibilities": "Install and maintain database systems, ensure data security, optimize database performance."
+        },
+        {
+          "title": "Cloud Engineer",
+          "responsibilities": "Deploy and manage cloud-based applications, ensure scalability and security."
+        },
+        {
+          "title": "Cyber Security Analyst",
+          "responsibilities": "Monitor security threats, implement security controls, ensure data protection."
+        },
+        {
+          "title": "AI/ML Engineer",
+          "responsibilities": "Develop machine learning models, analyze data trends, implement AI-driven solutions."
+        },
+        {
+          "title": "Blockchain Developer",
+          "responsibilities": "Design and develop blockchain-based applications, ensure smart contract security."
+        },
+        {
+          "title": "Mobile App Developer",
+          "responsibilities": "Develop and maintain mobile applications, ensure performance across devices."
+        },
+        {
+          "title": "Game Developer",
+          "responsibilities": "Design and code video games, work on game mechanics, optimize performance."
+        }
+      ]
+    },
+    {
+      "category": "Support Roles",
+      "positions": [
+        {
+          "title": "Technical Support Engineer",
+          "responsibilities": "Provide technical assistance to customers, troubleshoot issues, ensure customer satisfaction."
+        },
+        {
+          "title": "IT Support Specialist",
+          "responsibilities": "Resolve IT-related issues, manage software/hardware troubleshooting, maintain IT systems."
+        },
+        {
+          "title": "Network Administrator",
+          "responsibilities": "Maintain network infrastructure, ensure connectivity, optimize network performance."
+        },
+        {
+          "title": "System Administrator",
+          "responsibilities": "Manage system configurations, perform backups, ensure system security."
+        },
+        {
+          "title": "Help Desk Analyst",
+          "responsibilities": "Respond to user queries, provide technical support, log and track issues."
+        }
+      ]
+    },
+    {
+      "category": "Testing & QA",
+      "positions": [
+        {
+          "title": "Manual Tester",
+          "responsibilities": "Execute test cases manually, report defects, ensure product quality."
+        },
+        {
+          "title": "Automation Tester",
+          "responsibilities": "Develop automated test scripts, perform regression testing, improve test coverage."
+        },
+        {
+          "title": "Performance Tester",
+          "responsibilities": "Test application performance, analyze system behavior under load."
+        },
+        {
+          "title": "QA Lead",
+          "responsibilities": "Lead QA teams, define testing strategies, ensure quality standards."
+        },
+        {
+          "title": "Test Manager",
+          "responsibilities": "Oversee testing processes, manage test resources, report on quality metrics."
+        }
+      ]
+    },
+    {
+      "category": "Business & Analysis",
+      "positions": [
+        {
+          "title": "Business Analyst",
+          "responsibilities": "Gather business requirements, analyze processes, define solutions."
+        },
+        {
+          "title": "Data Analyst",
+          "responsibilities": "Analyze data trends, create reports, provide actionable insights."
+        },
+        {
+          "title": "Data Scientist",
+          "responsibilities": "Analyze complex data sets, develop machine learning models, provide insights."
+        },
+        {
+          "title": "BI Developer",
+          "responsibilities": "Develop business intelligence reports, work with data visualization tools."
+        },
+        {
+          "title": "Scrum Master",
+          "responsibilities": "Facilitate Agile processes, remove roadblocks, ensure team efficiency."
+        }
+      ]
+    },
+    {
+      "category": "Others",
+      "positions": [
+        {
+          "title": "Freelancer",
+          "responsibilities": "Provide contract-based software solutions, work independently on projects."
+        },
+        {
+          "title": "Consultant",
+          "responsibilities": "Offer expert advice on technology strategies and solutions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+/* In your CSS file
+.MuiInputBase-root {
+    width:222px;
+    height:37px;
+    padding:0px;
+    border-radius: 4px !important; /* Match CoreUI's border radius */
+/* border: 1px light #ccc !important; Match CoreUI's border color */
+/* } */
+
+/* .MuiInputBase-input {
+    font-size: 14px !important; 
+  } */
+
+/* .MuiInputLabel-root {
+    font-size: 14px !important; 
+  } */
+
+/* .MuiInputBase-root.Mui-focused {
+    border-color: #007bff !important; 
+  } */
+/* */
+
+.custom-dropdown {
+  position: relative;
+}
+
+.dropdown-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: #fff;
+  padding-right: 30px;
+  cursor: pointer;
+}
+
+/* Dropdown arrow (default position) */
+.dropdown-container .dropdown-arrow {
+  font-size: 14px;
+  color: #555;
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  transition: transform 0.2s ease-in-out;
+  pointer-events: none;
+}
+
+/* Rotate the arrow when dropdown is focused (open) */
+.dropdown-select:focus + .dropdown-arrow {
+  transform: translateY(-50%) rotate(180deg);
+}
